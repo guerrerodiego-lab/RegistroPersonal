@@ -1,5 +1,3 @@
-# RegistroPersonal
-
 App Flutter para control de asistencia con Firebase.
 git init
 git remote add origin https://github.com/guerrerodiego-lab/RegistroPersonal.git
